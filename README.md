@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 𝗬𝗨𝗥𝗜
 <sub>Backend developer · Java · Web systems</sub>
 
@@ -23,15 +23,17 @@ Still building. Still improving.
 <div align="center">
 
 ## 📊 ACTIVITY
+<div>
+  <img src="https://streak-stats.demolab.com?user=yuri-iqi&count_private=true&include_all_commits=true&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&text_color=FFFFFF" />
+</div>
 
-<!-- Local generated cards -->
+<br />
+
+<div>
 <img src="./profile/stats.svg" height="165"/>
 <img src="./profile/top-langs.svg" height="165"/>
+</div>
 
-<br/>
-
-<!-- Visual widgets -->
-<img src="https://streak-stats.demolab.com?user=yuri-iqi&count_private=true&include_all_commits=true&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&text_color=FFFFFF" />
 
 <br/>
 
