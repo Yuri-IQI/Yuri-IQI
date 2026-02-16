@@ -14,7 +14,7 @@ Still building. Still improving.
 
 ## ⚙ STACK
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,react,docker,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,python,react,docker,postgres,mongodb&theme=dark" />
 
 </div>
 
