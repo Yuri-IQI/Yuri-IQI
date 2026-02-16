@@ -24,7 +24,7 @@ Still building. Still improving.
 
 ## 📊 ACTIVITY
 <div>
-  <img src="https://streak-stats.demolab.com?user=yuri-iqi&count_private=true&include_all_commits=true&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&text_color=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=yuri-iqi&count_private=true&include_all_commits=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&text_color=FFFFFF" />
 </div>
 
 <br />
@@ -37,7 +37,7 @@ Still building. Still improving.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuri-iqi&count_private=true&include_all_commits=true&bg_color=000000&color=FFFFFF&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=222222&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuri-iqi&count_private=true&include_all_commits=true&bg_color=000000&color=FFFFFF&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=22222" />
 
 </div>
 
