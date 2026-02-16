@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=yuri-iqi&layout=compact&langs_count=6&count_private=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333
+          options: username=yuri-iqi&include_repo=iv-squad-13/api-monolito&layout=compact&langs_count=6&count_private=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333
           path: profile/top-langs.svg
           token: ${{ secrets.MTR_TOKEN }}
       
@@ -36,7 +36,7 @@ jobs:
         with:
           card: pin
           options: username=iv-squad-13&repo=central&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          path: profile/pin.svg
           token: ${{ secrets.MTR_TOKEN }}
 
       - name: Commit cards
