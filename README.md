@@ -12,7 +12,7 @@ Still building. Still improving.
 
 <div align="center">
 
-## ⚙ STACK
+## STACK
 
 <img src="https://skillicons.dev/icons?i=java,spring,ts,python,react,docker,postgres,mongodb&theme=dark" />
 
@@ -22,7 +22,7 @@ Still building. Still improving.
 
 <div align="center">
 
-## 📊 ACTIVITY
+## ACTIVITY
 <div>
   <img src="https://streak-stats.demolab.com?user=yuri-iqi&count_private=true&include_all_commits=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&text_color=FFFFFF" />
 </div>
@@ -60,7 +60,7 @@ More coming over time.
 
 ## 📫 CONTACT
 
-[LinkedIn](https://linkedin.com/in/your-profile)  
-your@email.com
+[LinkedIn](linkedin.com/in/yuri0)  
+anthony.yuri.ff@gmail.com
 
 </div>
