@@ -15,29 +15,29 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate MTR card
+        uses: readme-tools/github-readme-MTR-action@v1
         with:
-          card: stats
+          card: MTR
           options: username=yuri-iqi&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333
-          path: profile/stats.svg
-          token: ${{ secrets.STATS_TOKEN }}
+          path: profile/MTR.svg
+          token: ${{ secrets.MTR_TOKEN }}
       
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-MTR-action@v1
         with:
           card: top-langs
           options: username=yuri-iqi&layout=compact&langs_count=6&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333
           path: profile/top-langs.svg
-          token: ${{ secrets.STATS_TOKEN }}
+          token: ${{ secrets.MTR_TOKEN }}
       
       - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-MTR-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333
-          path: profile/pin-readme-tools-github-readme-stats.svg
-          token: ${{ secrets.STATS_TOKEN }}
+          options: username=readme-tools&repo=github-readme-MTR&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333
+          path: profile/pin-readme-tools-github-readme-MTR.svg
+          token: ${{ secrets.MTR_TOKEN }}
 
       - name: Commit cards
         run: |
