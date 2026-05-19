@@ -1,10 +1,7 @@
 <div align="center">
   
 # 𝗬𝗨𝗥𝗜
-<sub>Backend developer · Java · Web systems</sub>
-
-Academic projects, experiments, and things I'm learning.  
-Still building. Still improving.
+<sub></sub>
 
 </div>
 
@@ -45,12 +42,7 @@ Still building. Still improving.
 
 <div align="center">
 
-## 📌 NOTES
-
-Backend projects and university work  
-Interested in system design, data processing, and maps  
-
-More coming over time.
+## NOTES
 
 </div>
 
@@ -59,8 +51,5 @@ More coming over time.
 <div align="center">
 
 ## 📫 CONTACT
-
-[LinkedIn](linkedin.com/in/yuri0)  
-anthony.yuri.ff@gmail.com
 
 </div>
