@@ -50,6 +50,6 @@
 
 <div align="center">
 
-## 📫 CONTACT
+## CONTACT
 
 </div>
